@@ -8,8 +8,8 @@ function Header(){
             <img src={logo} alt="DSMeta" />
             <h1>DSMeta React and spring</h1>
             <p>
-              Desenvolvido por
-              <a href="https://www.linkedin.com/in/junio-santos-985ba2103/">@junio_ps</a>
+              Desenvolvido por 
+              <a href="https://www.linkedin.com/in/junio-santos-985ba2103/"> linkedin.com@junio_ps</a>
             </p>
         </div>
     </header>
