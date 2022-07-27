@@ -25,7 +25,7 @@ public class SaleController {
 	@Autowired
 	private SmsService smsService;
 
-	@GetMapping(value = "/list")
+	@GetMapping(value = "/")
 	public List<Sale> findSales() {
 		return service.findSales();
 	}
